@@ -2,3 +2,4 @@
 **/build
 **/gcb.cache
 **/a.out
+**/*.o
